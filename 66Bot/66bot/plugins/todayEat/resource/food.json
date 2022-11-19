@@ -1,0 +1,17 @@
+{
+    "basic_food": [],
+    "group_food": {
+        "775263454": [
+            "白粥[CQ:image,file=&#91;CQ:image&#44;file=file:///E:/PycharmProjects/noneBot/66Bot/66bot/plugins/todayEat/resource/img/2d614dd58a461a87e72581d5c549d6b2.image&#44;cache=true&#44;proxy=true&#93;,subType=0,url=https://gchat.qpic.cn/gchatpic_new/1592735160/775263454-3170337258-2D614DD58A461A87E72581D5C549D6B2/0?term=3]",
+            "拌饭酱 [CQ:image,file=&#91;CQ:image&#44;file=file:///E:/PycharmProjects/noneBot/66Bot/66bot/plugins/todayEat/resource/img/d4dd58daf14e66c2a09f2737fce5bc0c.image&#44;cache=true&#44;proxy=true&#93;,subType=0,url=https://gchat.qpic.cn/gchatpic_new/1592735160/775263454-2982596228-D4DD58DAF14E66C2A09F2737FCE5BC0C/0?term=3&amp;is_origin=0]"
+        ]
+    },
+    "count": {
+        "775263454": {
+            "1592735160": 11,
+            "2066724567": 1,
+            "2822146010": 2,
+            "1604322672": 1
+        }
+    }
+}

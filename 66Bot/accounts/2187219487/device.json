@@ -1,0 +1,38 @@
+{
+    "product": "LifeWatch Universal Gateway",
+    "device": "CD8100",
+    "board": "CD8100",
+    "brand": "Kyocera",
+    "model": "CD8100",
+    "wifi_ssid": "TP-LINK_DMXF65",
+    "android_id": "RD2A.211001.002",
+    "boot_id": "d16b2af7-be2c-662c-549f-c70c390ccda0",
+    "proc_version": "Linux version 5.1.25-x25fTGFp (android-build@be2c662c549f.source.android.com)",
+    "mac_address": "D1:6B:2A:F7:BE:2C",
+    "ip_address": [
+        188,
+        24,
+        242,
+        87
+    ],
+    "imei": "903518738193315",
+    "incremental": "2614332480",
+    "protocol": 5,
+    "display": "RD2A.211001.002",
+    "finger_print": "Kyocera/LifeWatch Universal Gateway/CD8100:10/RD2A.211001.002/2614332480:user/release-keys",
+    "baseband": "",
+    "sim": "T-Mobile",
+    "os_type": "android",
+    "bootloader": "U-boot",
+    "wifi_bssid": "D1:6B:2A:F7:BE:2C",
+    "apn": "wifi",
+    "version": {
+        "incremental": "2614332480",
+        "release": "10",
+        "codename": "REL",
+        "sdk": 29
+    },
+    "imsi_md5": "0f0a71617a8406cc5263fd93b6a9ac37",
+    "vendor_name": "Kyocera",
+    "vendor_os_name": "android"
+}

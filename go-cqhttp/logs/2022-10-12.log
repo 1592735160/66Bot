@@ -1,0 +1,73 @@
+[2022-10-12 14:06:54] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-10-12 14:06:59] [WARNING]: 检查更新失败！ 
+[2022-10-12 14:07:01] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:23333/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:23333: connectex: No connection could be made because the target machine actively refused it. 
+[2022-10-12 14:07:06] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:23333/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:23333: connectex: No connection could be made because the target machine actively refused it. 
+[2022-10-12 14:07:11] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:23333/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:23333: connectex: No connection could be made because the target machine actively refused it. 
+[2022-10-12 14:23:52] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-10-12 14:23:55] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:23333/onebot/v11/ws/ 时出现错误: websocket: bad handshake 
+[2022-10-12 14:23:55] [WARNING]: 检查更新失败！ 
+[2022-10-12 14:23:58] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:23333/onebot/v11/ws/ 时出现错误: websocket: bad handshake 
+[2022-10-12 14:24:01] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:23333/onebot/v11/ws/ 时出现错误: websocket: bad handshake 
+[2022-10-12 14:24:04] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:23333/onebot/v11/ws/ 时出现错误: websocket: bad handshake 
+[2022-10-12 14:24:07] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:23333/onebot/v11/ws/ 时出现错误: websocket: bad handshake 
+[2022-10-12 14:24:10] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:23333/onebot/v11/ws/ 时出现错误: websocket: bad handshake 
+[2022-10-12 14:24:13] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:23333/onebot/v11/ws/ 时出现错误: websocket: bad handshake 
+[2022-10-12 14:24:16] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:23333/onebot/v11/ws/ 时出现错误: websocket: bad handshake 
+[2022-10-12 14:24:19] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:23333/onebot/v11/ws/ 时出现错误: websocket: bad handshake 
+[2022-10-12 14:24:22] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:23333/onebot/v11/ws/ 时出现错误: websocket: bad handshake 
+[2022-10-12 14:24:25] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:23333/onebot/v11/ws/ 时出现错误: websocket: bad handshake 
+[2022-10-12 14:24:28] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:23333/onebot/v11/ws/ 时出现错误: websocket: bad handshake 
+[2022-10-12 14:24:31] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:23333/onebot/v11/ws/ 时出现错误: websocket: bad handshake 
+[2022-10-12 14:24:34] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:23333/onebot/v11/ws/ 时出现错误: websocket: bad handshake 
+[2022-10-12 14:24:37] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:23333/onebot/v11/ws/ 时出现错误: websocket: bad handshake 
+[2022-10-12 14:24:40] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:23333/onebot/v11/ws/ 时出现错误: websocket: bad handshake 
+[2022-10-12 14:24:43] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:23333/onebot/v11/ws/ 时出现错误: websocket: bad handshake 
+[2022-10-12 14:24:46] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:23333/onebot/v11/ws/ 时出现错误: websocket: bad handshake 
+[2022-10-12 14:24:49] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:23333/onebot/v11/ws/ 时出现错误: websocket: bad handshake 
+[2022-10-12 14:24:52] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:23333/onebot/v11/ws/ 时出现错误: websocket: bad handshake 
+[2022-10-12 14:24:55] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:23333/onebot/v11/ws/ 时出现错误: websocket: bad handshake 
+[2022-10-12 14:24:58] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:23333/onebot/v11/ws/ 时出现错误: websocket: bad handshake 
+[2022-10-12 14:29:52] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-10-12 14:29:55] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:23333/onebot/v12/ws/ 时出现错误: websocket: bad handshake 
+[2022-10-12 14:29:58] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:23333/onebot/v12/ws/ 时出现错误: websocket: bad handshake 
+[2022-10-12 14:34:23] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-10-12 14:34:27] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:6636/onebot/v12/ws/ 时出现错误: websocket: bad handshake 
+[2022-10-12 14:34:30] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:6636/onebot/v12/ws/ 时出现错误: websocket: bad handshake 
+[2022-10-12 14:34:33] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:6636/onebot/v12/ws/ 时出现错误: websocket: bad handshake 
+[2022-10-12 14:34:36] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:6636/onebot/v12/ws/ 时出现错误: websocket: bad handshake 
+[2022-10-12 14:34:39] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:6636/onebot/v12/ws/ 时出现错误: websocket: bad handshake 
+[2022-10-12 14:34:42] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:6636/onebot/v12/ws/ 时出现错误: websocket: bad handshake 
+[2022-10-12 14:34:45] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:6636/onebot/v12/ws/ 时出现错误: websocket: bad handshake 
+[2022-10-12 14:34:48] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:6636/onebot/v12/ws/ 时出现错误: websocket: bad handshake 
+[2022-10-12 14:34:51] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:6636/onebot/v12/ws/ 时出现错误: websocket: bad handshake 
+[2022-10-12 14:34:54] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:6636/onebot/v12/ws/ 时出现错误: websocket: bad handshake 
+[2022-10-12 14:34:57] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:6636/onebot/v12/ws/ 时出现错误: websocket: bad handshake 
+[2022-10-12 14:35:00] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:6636/onebot/v12/ws/ 时出现错误: websocket: bad handshake 
+[2022-10-12 14:35:03] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:6636/onebot/v12/ws/ 时出现错误: websocket: bad handshake 
+[2022-10-12 14:35:06] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:6636/onebot/v12/ws/ 时出现错误: websocket: bad handshake 
+[2022-10-12 14:35:09] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:6636/onebot/v12/ws/ 时出现错误: websocket: bad handshake 
+[2022-10-12 14:35:12] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:6636/onebot/v12/ws/ 时出现错误: websocket: bad handshake 
+[2022-10-12 14:35:15] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:6636/onebot/v12/ws/ 时出现错误: websocket: bad handshake 
+[2022-10-12 14:35:18] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:6636/onebot/v12/ws/ 时出现错误: websocket: bad handshake 
+[2022-10-12 14:35:21] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:6636/onebot/v12/ws/ 时出现错误: websocket: bad handshake 
+[2022-10-12 14:35:24] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:6636/onebot/v12/ws/ 时出现错误: websocket: bad handshake 
+[2022-10-12 14:35:27] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:6636/onebot/v12/ws/ 时出现错误: websocket: bad handshake 
+[2022-10-12 14:35:30] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:6636/onebot/v12/ws/ 时出现错误: websocket: bad handshake 
+[2022-10-12 14:35:33] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:6636/onebot/v12/ws/ 时出现错误: websocket: bad handshake 
+[2022-10-12 14:35:36] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:6636/onebot/v12/ws/ 时出现错误: websocket: bad handshake 
+[2022-10-12 14:35:39] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:6636/onebot/v12/ws/ 时出现错误: websocket: bad handshake 
+[2022-10-12 14:35:42] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:6636/onebot/v12/ws/ 时出现错误: websocket: bad handshake 
+[2022-10-12 14:35:45] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:6636/onebot/v12/ws/ 时出现错误: websocket: bad handshake 
+[2022-10-12 14:35:48] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:6636/onebot/v12/ws/ 时出现错误: websocket: bad handshake 
+[2022-10-12 14:35:51] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:6636/onebot/v12/ws/ 时出现错误: websocket: bad handshake 
+[2022-10-12 14:35:54] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:6636/onebot/v12/ws/ 时出现错误: websocket: bad handshake 
+[2022-10-12 14:35:57] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:6636/onebot/v12/ws/ 时出现错误: websocket: bad handshake 
+[2022-10-12 14:36:00] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:6636/onebot/v12/ws/ 时出现错误: websocket: bad handshake 
+[2022-10-12 14:36:03] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:6636/onebot/v12/ws/ 时出现错误: websocket: bad handshake 
+[2022-10-12 14:36:06] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:6636/onebot/v12/ws/ 时出现错误: websocket: bad handshake 
+[2022-10-12 14:36:09] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:6636/onebot/v12/ws/ 时出现错误: websocket: bad handshake 
+[2022-10-12 14:37:16] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-10-12 14:37:19] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:6636/onebot/v11/ws/ 时出现错误: websocket: bad handshake 
+[2022-10-12 14:37:22] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:6636/onebot/v11/ws/ 时出现错误: websocket: bad handshake 
+[2022-10-12 14:37:25] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:6636/onebot/v11/ws/ 时出现错误: websocket: bad handshake 
+[2022-10-12 14:37:28] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:6636/onebot/v11/ws/ 时出现错误: websocket: bad handshake 

@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "66Bot"
+version = "0.1.0"
+description = "66Bot"
+authors = []
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.7.3"
+nonebot2 = "^2.0.0-beta.1"
+
+[tool.poetry.dev-dependencies]
+nb-cli = "^0.6.0"
+
+
+[tool.nonebot]
+plugins = ["nonebot_plugin_gocqhttp","nonebot_plugin_remake","nonebot_plugin_tarot", "nonebot_plugin_imageutils","nonebot_plugin_moegoe", "nonebot_plugin_answersbook"]
+plugin_dirs = ["66bot/plugins"]
+
+[build-system]
+requires = ["poetry_core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

@@ -1,0 +1,26 @@
+[2022-10-11 17:18:17] [WARNING]: 虚拟设备信息不存在, 将自动生成随机设备. 
+[2022-10-11 17:18:22] [WARNING]: 登录需要滑条验证码, 请选择验证方式:  
+[2022-10-11 17:18:22] [WARNING]: 1. 使用浏览器抓取滑条并登录 
+[2022-10-11 17:18:22] [WARNING]: 2. 使用手机QQ扫码验证 (需要手Q和gocq在同一网络下). 
+[2022-10-11 17:18:22] [WARNING]: 请输入(1 - 2) (将在10秒后自动选择1)： 
+[2022-10-11 17:18:31] [WARNING]: 请前往该地址验证 -> https://captcha.go-cqhttp.org/captcha?id=9WVmzj97&style=simple&aid=16&uin=2187219487&sid=8765380429999322334&cap_cd=0WOlV4lNQraXcJdUl04Xdz0gKPXDm38-pCLmt48GtTqD--UgVg3row**&clientype=1&apptype=2 
+[2022-10-11 17:18:48] [WARNING]: 账号已开启设备锁，请选择验证方式: 
+[2022-10-11 17:18:48] [WARNING]: 1. 向手机 183******16 发送短信验证码 
+[2022-10-11 17:18:48] [WARNING]: 2. 使用手机QQ扫码验证. 
+[2022-10-11 17:18:48] [WARNING]: 请输入(1 - 2) (将在10秒后自动选择2)： 
+[2022-10-11 17:18:52] [WARNING]: 账号已开启设备锁，请前往 -> https://accounts.qq.com/safe/verify?_wv=2&_wwv=128&envfrom=device-lock&uin=2187219487&sig=FfDJO4zgasx9nVKhQ4hkqmU6pPbQETWZxXkBr%2FAVrK1821p3ZVrFjsQwgsaTjH1%2BAO%2BFJEkjpy6Qow3AUsboZw7XDrweFhmKLeFMB7mwFb81%2FMmygPKfIHt3d6m4xu5G <- 验证后重启Bot. 
+[2022-10-11 17:20:20] [WARNING]: 连接到反向WebSocket Universal服务器 ws://your_websocket_universal.server 时出现错误: dial tcp: lookup your_websocket_universal.server: no such host 
+[2022-10-11 17:20:23] [WARNING]: 连接到反向WebSocket Universal服务器 ws://your_websocket_universal.server 时出现错误: dial tcp: lookup your_websocket_universal.server: no such host 
+[2022-10-11 17:20:27] [WARNING]: 连接到反向WebSocket Universal服务器 ws://your_websocket_universal.server 时出现错误: dial tcp: lookup your_websocket_universal.server: no such host 
+[2022-10-11 17:20:30] [WARNING]: 连接到反向WebSocket Universal服务器 ws://your_websocket_universal.server 时出现错误: dial tcp: lookup your_websocket_universal.server: no such host 
+[2022-10-11 17:20:33] [WARNING]: 连接到反向WebSocket Universal服务器 ws://your_websocket_universal.server 时出现错误: dial tcp: lookup your_websocket_universal.server: no such host 
+[2022-10-11 17:22:11] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-10-11 17:22:15] [WARNING]: 连接到反向WebSocket Universal服务器 127.0.0.1:8080 时出现错误: parse "127.0.0.1:8080": first path segment in URL cannot contain colon 
+[2022-10-11 17:22:18] [WARNING]: 连接到反向WebSocket Universal服务器 127.0.0.1:8080 时出现错误: parse "127.0.0.1:8080": first path segment in URL cannot contain colon 
+[2022-10-11 17:22:21] [WARNING]: 连接到反向WebSocket Universal服务器 127.0.0.1:8080 时出现错误: parse "127.0.0.1:8080": first path segment in URL cannot contain colon 
+[2022-10-11 17:22:25] [WARNING]: 连接到反向WebSocket Universal服务器 127.0.0.1:8080 时出现错误: parse "127.0.0.1:8080": first path segment in URL cannot contain colon 
+[2022-10-11 17:22:28] [WARNING]: 连接到反向WebSocket Universal服务器 127.0.0.1:8080 时出现错误: parse "127.0.0.1:8080": first path segment in URL cannot contain colon 
+[2022-10-11 17:22:31] [WARNING]: 连接到反向WebSocket Universal服务器 127.0.0.1:8080 时出现错误: parse "127.0.0.1:8080": first path segment in URL cannot contain colon 
+[2022-10-11 17:22:34] [WARNING]: 连接到反向WebSocket Universal服务器 127.0.0.1:8080 时出现错误: parse "127.0.0.1:8080": first path segment in URL cannot contain colon 
+[2022-10-11 17:22:37] [WARNING]: 连接到反向WebSocket Universal服务器 127.0.0.1:8080 时出现错误: parse "127.0.0.1:8080": first path segment in URL cannot contain colon 
+[2022-10-11 17:22:40] [WARNING]: 连接到反向WebSocket Universal服务器 127.0.0.1:8080 时出现错误: parse "127.0.0.1:8080": first path segment in URL cannot contain colon 
